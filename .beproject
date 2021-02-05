@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration:StudioProjectConfiguration xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:configuration="http:///com/tibco/cep/studio/common/configuration/model/project_configuration.ecore" name="CreditCardApplication" version="5.6.1" build="070" xpathVersion="2.0">
+  <javaSourceFolderEntries entryType="JAVA_SOURCE_FOLDER" path="/CreditCardApplication/JavaSrc" readOnly="true"/>
+  <enterpriseArchiveConfiguration name="CreditCardApplication" author="TIBCO Software Inc." version="48" path="/opt/tibco/be/5.6/examples/standard/WebStudio/CreditCardApplication_test.ear" overwrite="true"/>
+  <bpmnProcessSettings/>
+</configuration:StudioProjectConfiguration>
